@@ -1,4 +1,4 @@
-# Day #7 / 100 Days CSS CHALLENGE
+# Day #8 / 100 Days CSS CHALLENGE
 > 100 DAYS CSS CHALLENGE
 
 [![https://i.imgur.com/riHB8iF.gif](https://i.imgur.com/riHB8iF.gif "https://i.imgur.com/riHB8iF.gif")](https://i.imgur.com/riHB8iF.gif "https://i.imgur.com/riHB8iF.gif")
